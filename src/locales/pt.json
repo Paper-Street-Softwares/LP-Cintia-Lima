@@ -145,7 +145,7 @@
   "steps": {
     "miniTag": "PASSO A PASSO",
     "title": "Como funciona nosso atendimento?",
-    "subtitle": "Consulta inicial",
+    "subtitle": "",
     "cards": {
       "card1": {
         "stepNumber": 1,
