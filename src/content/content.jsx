@@ -53,7 +53,7 @@ export const infos = {
   name: "Dra. Cíntia Castro",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "cintiacastrocriminalista.com.br", // Sem "www"
+  domain: "ccastroadvocacia.com.br", // Sem "www"
   phone: {
     ddd: "19",
     firstPart: "99243", // Apenas os 5 primeiros números (incluindo o 9)
